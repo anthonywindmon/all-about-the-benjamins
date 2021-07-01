@@ -1,5 +1,7 @@
 # all-about-the-benjamins
-The purpose of this repository is demonstrate the use of data sceince techniques for data cleaning and data visualizations. 
+Twitter user @engineering_bae started a survey from her account that asks questions about tech jobs. The questions asked include information about job titles, industries, salaries, locations, remote work status, size of company, years of experience, etc. 
+
+The purpose of this repository is demonstrate the use of data sceince techniques for data cleaning and data visualizations. Here, I make connections in the data between items such as salary with respect to job title/industry and years of experience or remote status with respect to the company size.
 
 TechSalary_CleanUp.ipynb includes the data cleaning code and TechSalary_Visuals includes data visualizations from the cleaned dataset.
 
